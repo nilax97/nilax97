@@ -9,4 +9,4 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="logos/linkedin.svg" />][https://www.linkedin.com/in/nilaksh97/]
+[<img align="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/nilaksh97/" />][logos/linkedin.svg]
