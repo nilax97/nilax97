@@ -20,32 +20,32 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="C++" width="26px" src="logos/c++.png" />](https://github.com/nilax97?tab=repositories&q=&type=&language=c%2B%2B)
-[<img align="left" alt="C" width="26px" src="logos/c.svg" />](https://github.com/nilax97?tab=repositories&q=&type=&language=c)
-[<img align="left" alt="C#" width="26px" src="logos/c.svg" />](https://github.com/nilax97?tab=repositories&q=&type=&language=c%23)
-[<img align="left" alt="Java" width="26px" src="logos/java.png" />](https://github.com/nilax97?tab=repositories&q=&type=&language=java)
-[<img align="left" alt="Python" width="26px" src="logos/python.png" />](https://github.com/nilax97?tab=repositories&q=&type=&language=python)
-[<img align="left" alt="golang" width="26px" src="logos/golang.png" />](https://github.com/nilax97?tab=repositories&q=&type=&language=go)
-[<img align="left" alt="postgresql" width="26px" src="logos/postgresql.png" />](hhttps://github.com/nilax97/DBMS-Assignments)
+[<img align="left" alt="C++" height="26px" src="logos/c++.png" />](https://github.com/nilax97?tab=repositories&q=&type=&language=c%2B%2B)
+[<img align="left" alt="C" height="26px" src="logos/c.svg" />](https://github.com/nilax97?tab=repositories&q=&type=&language=c)
+[<img align="left" alt="C#" height="26px" src="logos/c.svg" />](https://github.com/nilax97?tab=repositories&q=&type=&language=c%23)
+[<img align="left" alt="Java" height="26px" src="logos/java.png" />](https://github.com/nilax97?tab=repositories&q=&type=&language=java)
+[<img align="left" alt="Python" height="26px" src="logos/python.png" />](https://github.com/nilax97?tab=repositories&q=&type=&language=python)
+[<img align="left" alt="golang" height="26px" src="logos/golang.png" />](https://github.com/nilax97?tab=repositories&q=&type=&language=go)
+[<img align="left" alt="postgresql" height="26px" src="logos/postgresql.png" />](hhttps://github.com/nilax97/DBMS-Assignments)
 
 <br />
 
-[<img align="left" alt="HTML" width="26px" src="logos/html.svg" />](https://github.com/nilax97?tab=repositories&q=&type=&language=html)
-[<img align="left" alt="CSS" width="26px" src="logos/css.png" />](https://github.com/nilax97?tab=repositories&q=&type=&language=css)
-[<img align="left" alt="Javascript" width="26px" src="logos/javascript.svg" />](https://github.com/nilax97?tab=repositories&q=&type=&language=javascript)
-[<img align="left" alt="Webassembly" width="26px" src="logos/web-assembly.png" />](https://github.com/nilax97?tab=repositories&q=&type=&language=webassembly)
+[<img align="left" alt="HTML" height="26px" src="logos/html.svg" />](https://github.com/nilax97?tab=repositories&q=&type=&language=html)
+[<img align="left" alt="CSS" height="26px" src="logos/css.png" />](https://github.com/nilax97?tab=repositories&q=&type=&language=css)
+[<img align="left" alt="Javascript" height="26px" src="logos/javascript.svg" />](https://github.com/nilax97?tab=repositories&q=&type=&language=javascript)
+[<img align="left" alt="Webassembly" height="26px" src="logos/web-assembly.png" />](https://github.com/nilax97?tab=repositories&q=&type=&language=webassembly)
 
 <br />
 
-[<img align="left" alt="git" width="26px" src="logos/git.png" />](https://github.com/nilax97?tab=repositories)
-[<img align="left" alt="github" width="26px" src="logos/github.png" />](https://github.com/nilax97?tab=repositories)
-[<img align="left" alt="terminal" width="26px" src="logos/terminal.jpg" />](https://github.com/nilax97?tab=repositories)
+[<img align="left" alt="git" height="26px" src="logos/git.png" />](https://github.com/nilax97?tab=repositories)
+[<img align="left" alt="github" height="26px" src="logos/github.png" />](https://github.com/nilax97?tab=repositories)
+[<img align="left" alt="terminal" height="26px" src="logos/terminal.jpg" />](https://github.com/nilax97?tab=repositories)
 
 <br />
 
-[<img align="left" alt="tensorflow" width="26px" src="logos/tensorflow.png" />](https://github.com/nilax97?tab=repositories)
-[<img align="left" alt="pytorch" width="26px" src="logos/pytorch.png" />](https://github.com/nilax97?tab=repositories)
-[<img align="left" alt="keras" width="26px" src="logos/keras.jpg" />](https://github.com/nilax97?tab=repositories)
-[<img align="left" alt="opencv" width="26px" src="logos/opencv.png" />](https://github.com/nilax97?tab=repositories)
-[<img align="left" alt="sklearn" width="26px" src="logos/sklearn.png" />](https://github.com/nilax97?tab=repositories)
+[<img align="left" alt="tensorflow" height="26px" src="logos/tensorflow.png" />](https://github.com/nilax97?tab=repositories)
+[<img align="left" alt="pytorch" height="26px" src="logos/pytorch.png" />](https://github.com/nilax97?tab=repositories)
+[<img align="left" alt="keras" height="26px" src="logos/keras.jpg" />](https://github.com/nilax97?tab=repositories)
+[<img align="left" alt="opencv" height="26px" src="logos/opencv.png" />](https://github.com/nilax97?tab=repositories)
+[<img align="left" alt="sklearn" height="26px" src="logos/sklearn.png" />](https://github.com/nilax97?tab=repositories)
 
