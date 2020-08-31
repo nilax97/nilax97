@@ -8,11 +8,13 @@
 - Currently reading [Approaching (almost) any machine learning problem by Abhishek Thakur](https://www.amazon.in/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT)
 
 <br />
+<br />
 
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="logos/linkedin.svg" />](https://www.linkedin.com/in/nilaksh97/)[<img align="left" alt="Facebook" width="22px" src="logos/facebook.svg" />](https://www.facebook.com/nilax97/)[<img align="left" alt="Spotify" width="22px" src="logos/spotify.png" />](https://open.spotify.com/user/12121324612?si=UxWL_2LfTCGbPT4-SAD1OQ)[<img align="left" alt="Gmail" width="22px" src="logos/gmail.png" />](mailto:agarwal.nilaksh@gmail.com)
 
+<br />
 <br />
 
 ### Languages and Tools:
