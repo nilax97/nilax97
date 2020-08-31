@@ -17,9 +17,6 @@
 [<img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/spotify.png" />](https://open.spotify.com/user/12121324612?si=UxWL_2LfTCGbPT4-SAD1OQ)
 [<img align="left" alt="Gmail" width="22px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/gmail.png" />](mailto:agarwal.nilaksh@gmail.com)
 
-<br />
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="C++" height="26px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/c%2B%2B.png" />](https://github.com/nilax97?tab=repositories&q=&type=&language=c%2B%2B)
@@ -30,7 +27,6 @@
 [<img align="left" alt="golang" height="26px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/golang.png" />](https://github.com/nilax97?tab=repositories&q=&type=&language=go)
 [<img align="left" alt="postgresql" height="26px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/postgresql.png" />](hhttps://github.com/nilax97/DBMS-Assignments)
 
-<br />
 <br />
 
 [<img align="left" alt="HTML" height="26px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/html.svg" />](https://github.com/nilax97?tab=repositories&q=&type=&language=html)
@@ -48,4 +44,14 @@
 [<img align="left" alt="keras" height="26px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/keras.jpg" />](https://github.com/nilax97?tab=repositories)
 [<img align="left" alt="opencv" height="26px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/opencv.png" />](https://github.com/nilax97?tab=repositories)
 [<img align="left" alt="sklearn" height="26px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/sklearn.png" />](https://github.com/nilax97?tab=repositories)
+
+---
+
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+![Nilaksh's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
+  <img align="left" alt="Nilaksh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nilax97&count_private=true&show_icons=true&hide_border=true" />
+
 
