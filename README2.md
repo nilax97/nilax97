@@ -54,4 +54,6 @@
 
   <img align="left" alt="Nilaksh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nilax97&show_icons=true&hide_border=true" />
 
+<!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->

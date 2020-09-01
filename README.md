@@ -72,3 +72,7 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilax97&show_icons=true&include_all_commits=true" alt="nilax97" /></p>
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
