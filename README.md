@@ -41,7 +41,7 @@
 <br> -->
 <br>
 <details>
-  <summary><h3>Languages and Tools:</h3></summary>
+  <summary>Languages and Tools:</summary>
  <p align="left">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
