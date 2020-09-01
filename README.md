@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nilaksh</h1>
 <h4 align="center">A passionate developer and ML enthusiast from India</h4>
+<p align="left">
+	<img src="https://komarev.com/ghpvc/?username=nilax97&label=Visits" alt="nilax97" />
+</p>
 <p align="center">
 <a href="https://linkedin.com/in/nilaksh97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nilaksh97" height="30" width="30" /></a> &nbsp; &nbsp;
 <a href="https://kaggle.com/nilax97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nilax97" height="30" width="30" /></a>  &nbsp; &nbsp;
@@ -7,8 +10,6 @@
 <a href="https://instagram.com/agarwalnilaksh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="agarwalnilaksh" height="30" width="30" /></a>  &nbsp; &nbsp;
 <a href="mailto:agarwalnilaksh@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="agarwal.nilaksh@gmail.com" height="30" width="30" /></a>
 </p>
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=nilax97&label=Visits" alt="nilax97" /> </p>
 
 <!-- - 🌱 I’m currently learning **React and node.js**
 
