@@ -7,9 +7,6 @@
 - ⚡ Fun fact: I love to read fiction📕 and play video games🎮
 - Currently reading [Approaching (almost) any machine learning problem](https://www.amazon.in/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT)
 
-<br />
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/linkedin.svg" />](https://www.linkedin.com/in/nilaksh97/)
