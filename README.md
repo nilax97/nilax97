@@ -41,7 +41,7 @@
 <br> -->
 <br>
 <details>
-	<p font-size="60px">
+	<p font-size="20">
 		 <summary><b>Languages and Tools:</b></summary>
 	</p>
  <p align="left">
