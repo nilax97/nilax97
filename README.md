@@ -85,5 +85,4 @@
 2. 💪 Opened PR [#162](https://github.com//DavidMatthewFraser/easy-to-git/pull/162) in [DavidMatthewFraser/easy-to-git](https://github.com//DavidMatthewFraser/easy-to-git)
 3. 💪 Opened PR [#30134](https://github.com//firstcontributions/first-contributions/pull/30134) in [firstcontributions/first-contributions](https://github.com//firstcontributions/first-contributions)
 4. 🎉 Merged PR [#2](https://github.com//nilax97/nilax97.github.io/pull/2) in [nilax97/nilax97.github.io](https://github.com//nilax97/nilax97.github.io)
-5. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
