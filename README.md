@@ -10,7 +10,7 @@
 <br />
 <br />
 
-<!-- ### Connect with me:
+### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/linkedin.svg" />](https://www.linkedin.com/in/nilaksh97/)
 
@@ -65,9 +65,9 @@
 
 [<img align="left" alt="opencv" height="26px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/opencv.png" />](https://github.com/nilax97?tab=repositories)
 
-[<img align="left" alt="sklearn" height="26px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/sklearn.png" />](https://github.com/nilax97?tab=repositories) -->
+[<img align="left" alt="sklearn" height="26px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/sklearn.png" />](https://github.com/nilax97?tab=repositories)
 
-### Connect with me:
+<!-- ### Connect with me:
 
 [<img align="left" alt="LinkedIn" height="26px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nilaksh97/)
 
@@ -122,7 +122,7 @@
 [<img align="left" alt="keras" height="26px" src="https://img.shields.io/badge/Keras-%23PyTorch.svg?&style=for-the-badge&logo=Keras&logoColor=white" />](https://github.com/nilax97?tab=repositories)<!-- 
 [<img align="left" alt="opencv" height="26px" src="https://img.shields.io/badge/{}-%23{}.svg?&style=for-the-badge&logo={}&logoColor=white" />](https://github.com/nilax97?tab=repositories)
 
-[<img align="left" alt="sklearn" height="26px" src="https://img.shields.io/badge/{}-%23{}.svg?&style=for-the-badge&logo={}&logoColor=white" />](https://github.com/nilax97?tab=repositories) -->
+[<img align="left" alt="sklearn" height="26px" src="https://img.shields.io/badge/{}-%23{}.svg?&style=for-the-badge&logo={}&logoColor=white" />](https://github.com/nilax97?tab=repositories) --> -->
 
 <br />
 
