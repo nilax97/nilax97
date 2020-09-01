@@ -17,6 +17,8 @@
 [<img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/spotify.png" />](https://open.spotify.com/user/12121324612?si=UxWL_2LfTCGbPT4-SAD1OQ)
 [<img align="left" alt="Gmail" width="22px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/gmail.png" />](mailto:agarwal.nilaksh@gmail.com)
 
+<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="C++" height="26px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/c%2B%2B.png" />](https://github.com/nilax97?tab=repositories&q=&type=&language=c%2B%2B)
@@ -45,6 +47,7 @@
 [<img align="left" alt="opencv" height="26px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/opencv.png" />](https://github.com/nilax97?tab=repositories)
 [<img align="left" alt="sklearn" height="26px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/sklearn.png" />](https://github.com/nilax97?tab=repositories)
 
+<br />
 ---
 
 <!-- ### Spotify Playing 🎧
