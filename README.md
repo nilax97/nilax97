@@ -41,7 +41,9 @@
 <br> -->
 <br>
 <details>
-  <summary>Languages and Tools:</summary>
+	<p font-size="60px">
+		 <summary><b>Languages and Tools:</b></summary>
+	</p>
  <p align="left">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -72,3 +74,5 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilax97&show_icons=true&include_all_commits=true" alt="nilax97" /></p>
+
+<!--START_SECTION:activity-->
