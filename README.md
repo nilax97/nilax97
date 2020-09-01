@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilaksh</h1>
-<h4 align="center">A passionate developer and ML enthusiast from India</h4>
+<h4 align="center">A developer and ML enthusiast from Bangalore, India</h4>
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=nilax97&label=Visits" alt="nilax97" />
 </p>
