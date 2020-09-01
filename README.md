@@ -39,8 +39,9 @@
 </p>
 
 <br> -->
+<br>
 
-### Languages and Tools:
+<h3>Languages and Tools:</h3>
 
 <p align="left">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
