@@ -23,10 +23,10 @@
 [<img align="left" alt="Gmail" width="22px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/gmail.png" />](mailto:agarwal.nilaksh@gmail.com) -->
 
 <p align="center">
-<a href="https://linkedin.com/in/nilaksh97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nilaksh97" height="30" width="30" /></a>
-<a href="https://kaggle.com/nilax97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nilax97" height="30" width="30" /></a>
-<a href="https://fb.com/nilax97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nilax97" height="30" width="30" /></a>
-<a href="https://instagram.com/agarwalnilaksh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="agarwalnilaksh" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/nilaksh97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nilaksh97" height="30" width="30" /></a> &nbsp; &nbsp;
+<a href="https://kaggle.com/nilax97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nilax97" height="30" width="30" /></a>  &nbsp; &nbsp;
+<a href="https://fb.com/nilax97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nilax97" height="30" width="30" /></a>  &nbsp; &nbsp;
+<a href="https://instagram.com/agarwalnilaksh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="agarwalnilaksh" height="30" width="30" /></a>  &nbsp; &nbsp;
 <a href="mailto:agarwalnilaksh@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="agarwal.nilaksh@gmail.com" height="30" width="30" /></a>
 </p>
 
