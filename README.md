@@ -22,7 +22,7 @@
 [<img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/spotify.png" />](https://open.spotify.com/user/12121324612?si=UxWL_2LfTCGbPT4-SAD1OQ)
 [<img align="left" alt="Gmail" width="22px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/gmail.png" />](mailto:agarwal.nilaksh@gmail.com) -->
 
-<p align="center">
+<p>
 <a href="https://linkedin.com/in/nilaksh97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nilaksh97" height="30" width="30" /></a> &nbsp; &nbsp;
 <a href="https://kaggle.com/nilax97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nilax97" height="30" width="30" /></a>  &nbsp; &nbsp;
 <a href="https://fb.com/nilax97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nilax97" height="30" width="30" /></a>  &nbsp; &nbsp;
