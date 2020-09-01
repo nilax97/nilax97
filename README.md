@@ -40,10 +40,9 @@
 
 <br> -->
 <br>
-
-<h3>Languages and Tools:</h3>
-
-<p align="left">
+<details>
+  <summary><h3>Languages and Tools:</h3></summary>
+ <p align="left">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -66,6 +65,7 @@
 	x<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 	<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </p>
+</details>
 
 <p>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilax97" alt="nilax97" />
