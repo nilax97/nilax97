@@ -40,11 +40,10 @@
 
 <br> -->
 <br>
-<details>
-	<p font-size="20">
-		 <summary><b>Languages and Tools:</b></summary>
-	</p>
- <p align="left">
+
+<h3>Languages and Tools:</h3>
+
+<p align="left">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -67,12 +66,9 @@
 	x<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 	<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </p>
-</details>
 
 <p>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilax97" alt="nilax97" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilax97&show_icons=true&include_all_commits=true" alt="nilax97" /></p>
-
-<!--START_SECTION:activity-->
