@@ -34,7 +34,7 @@
 
 [<img align="left" alt="HTML" height="26px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/html.svg" />](https://github.com/nilax97?tab=repositories&q=&type=&language=html)
 [<img align="left" alt="CSS" height="26px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/css.png" />](https://github.com/nilax97?tab=repositories&q=&type=&language=css)
-[<img align="left" alt="Javascript" height="26px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/javascript.svg" />](https://github.com/nilax97?tab=repositories&q=&type=&language=javascript)
+[<img align="left" alt="Javascript" height="26px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />](https://github.com/nilax97?tab=repositories&q=&type=&language=javascript)
 [<img align="left" alt="Webassembly" height="26px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/web-assembly.png" />](https://github.com/nilax97?tab=repositories&q=&type=&language=webassembly)
 [<img align="left" alt="git" height="26px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/git.png" />](https://github.com/nilax97?tab=repositories)
 [<img align="left" alt="github" height="26px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/github.png" />](https://github.com/nilax97?tab=repositories)
