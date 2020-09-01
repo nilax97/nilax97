@@ -122,7 +122,7 @@
 [<img align="left" alt="keras" height="26px" src="https://img.shields.io/badge/Keras-%23PyTorch.svg?&style=for-the-badge&logo=Keras&logoColor=white" />](https://github.com/nilax97?tab=repositories)<!-- 
 [<img align="left" alt="opencv" height="26px" src="https://img.shields.io/badge/{}-%23{}.svg?&style=for-the-badge&logo={}&logoColor=white" />](https://github.com/nilax97?tab=repositories)
 
-[<img align="left" alt="sklearn" height="26px" src="https://img.shields.io/badge/{}-%23{}.svg?&style=for-the-badge&logo={}&logoColor=white" />](https://github.com/nilax97?tab=repositories) --> -->
+[<img align="left" alt="sklearn" height="26px" src="https://img.shields.io/badge/{}-%23{}.svg?&style=for-the-badge&logo={}&logoColor=white" />](https://github.com/nilax97?tab=repositories) -->
 
 <br />
 
