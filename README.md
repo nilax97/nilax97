@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nilaksh</h1>
-<h3 align="center">A passionate developer and ML enthusiast from India</h3>
+<h4 align="center">A passionate developer and ML enthusiast from India</h4>
+<p align="center">
+<a href="https://linkedin.com/in/nilaksh97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nilaksh97" height="30" width="30" /></a> &nbsp; &nbsp;
+<a href="https://kaggle.com/nilax97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nilax97" height="30" width="30" /></a>  &nbsp; &nbsp;
+<a href="https://fb.com/nilax97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nilax97" height="30" width="30" /></a>  &nbsp; &nbsp;
+<a href="https://instagram.com/agarwalnilaksh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="agarwalnilaksh" height="30" width="30" /></a>  &nbsp; &nbsp;
+<a href="mailto:agarwalnilaksh@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="agarwal.nilaksh@gmail.com" height="30" width="30" /></a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilax97" alt="nilax97" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nilax97&label=Visits" alt="nilax97" /> </p>
 
-- 🌱 I’m currently learning **React and node.js**
+<!-- - 🌱 I’m currently learning **React and node.js**
 
 - 👯 I’m looking to collaborate on **any fun and exciting projects 🙃**
 
@@ -13,16 +20,16 @@
 
 - 🥅 2020 Goals: **Contribute more to Open Source projects**
 
-- Currently reading [Approaching (almost) any machine learning problem](https://www.amazon.in/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT)
+- Currently reading [Approaching (almost) any machine learning problem](https://www.amazon.in/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT) -->
 
-### Connect with me:
-
+<!-- ### Connect with me:
+ -->
 <!-- [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/linkedin.svg" />](https://www.linkedin.com/in/nilaksh97/)
 [<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/facebook.svg" />](https://www.facebook.com/nilax97/)
 [<img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/spotify.png" />](https://open.spotify.com/user/12121324612?si=UxWL_2LfTCGbPT4-SAD1OQ)
 [<img align="left" alt="Gmail" width="22px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/gmail.png" />](mailto:agarwal.nilaksh@gmail.com) -->
 
-<p>
+<!-- <p>
 <a href="https://linkedin.com/in/nilaksh97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nilaksh97" height="30" width="30" /></a> &nbsp; &nbsp;
 <a href="https://kaggle.com/nilax97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nilax97" height="30" width="30" /></a>  &nbsp; &nbsp;
 <a href="https://fb.com/nilax97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nilax97" height="30" width="30" /></a>  &nbsp; &nbsp;
@@ -30,6 +37,7 @@
 <a href="mailto:agarwalnilaksh@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="agarwal.nilaksh@gmail.com" height="30" width="30" /></a>
 </p>
 
+<br> -->
 
 ### Languages and Tools:
 
