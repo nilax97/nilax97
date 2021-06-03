@@ -30,5 +30,6 @@ Hi, I'm Nilaksh, a passionate data scientist and software developer from India.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nilax97&show_icons=true&count_private=true&theme=gotham" alt="nilax97" />
 
 
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 
