@@ -1,87 +1,51 @@
-<h1 align="center">Hi 👋, I'm Nilaksh</h1>
-<h4 align="center">A developer and ML enthusiast from Bangalore, India</h4>
-<p align="left">
-	<img src="https://komarev.com/ghpvc/?username=nilax97&label=Visits" alt="nilax97" />
-</p>
-<p align="center">
-<a href="https://linkedin.com/in/nilaksh97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nilaksh97" height="30" width="30" /></a> &nbsp; &nbsp;
-<a href="https://kaggle.com/nilax97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nilax97" height="30" width="30" /></a>  &nbsp; &nbsp;
-<a href="https://fb.com/nilax97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nilax97" height="30" width="30" /></a>  &nbsp; &nbsp;
-<a href="https://instagram.com/agarwalnilaksh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="agarwalnilaksh" height="30" width="30" /></a>  &nbsp; &nbsp;
-<a href="mailto:agarwalnilaksh@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="agarwal.nilaksh@gmail.com" height="30" width="30" /></a>
-</p>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-<!-- - 🌱 I’m currently learning **React and node.js**
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 👯 I’m looking to collaborate on **any fun and exciting projects 🙃**
+<br />
 
-- 💬 Always up for **beer🍺, new food🍔 and a game of Dota**
+Hi, I'm Nilaksh, a passionate data scientist and software developer from India. 
 
-- ⚡ Fun fact **I love to read fiction📕 and play video games🎮**
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-- 🥅 2020 Goals: **Contribute more to Open Source projects**
 
-- Currently reading [Approaching (almost) any machine learning problem](https://www.amazon.in/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT) -->
+  <img align="right" alt="GIF" src="https://github.com/nilax97/nilax97/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [Email](mailto:agarwal.nilaksh@gmail.com);
+- 📝 [Resume](https://nilax97.github.io/files/resume.pdf)
 
-<!-- ### Connect with me:
- -->
-<!-- [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/linkedin.svg" />](https://www.linkedin.com/in/nilaksh97/)
-[<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/facebook.svg" />](https://www.facebook.com/nilax97/)
-[<img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/spotify.png" />](https://open.spotify.com/user/12121324612?si=UxWL_2LfTCGbPT4-SAD1OQ)
-[<img align="left" alt="Gmail" width="22px" src="https://raw.githubusercontent.com/nilax97/nilax97/master/logos/gmail.png" />](mailto:agarwal.nilaksh@gmail.com) -->
+**Languages and Tools:**  
 
-<!-- <p>
-<a href="https://linkedin.com/in/nilaksh97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nilaksh97" height="30" width="30" /></a> &nbsp; &nbsp;
-<a href="https://kaggle.com/nilax97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nilax97" height="30" width="30" /></a>  &nbsp; &nbsp;
-<a href="https://fb.com/nilax97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nilax97" height="30" width="30" /></a>  &nbsp; &nbsp;
-<a href="https://instagram.com/agarwalnilaksh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="agarwalnilaksh" height="30" width="30" /></a>  &nbsp; &nbsp;
-<a href="mailto:agarwalnilaksh@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="agarwal.nilaksh@gmail.com" height="30" width="30" /></a>
-</p>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><i class="devicon-linkedin-plain"></i></code>
+<code><i class="devicon-github-original"></i></code>
+<code><i class="devicon-facebook-plain"></i></code>
+<code><i class="devicon-github-plain fa-xs"></i></code>
+<code><i class="devicon-github-plain fa-xs"></i></code>
+<code><i class="devicon-github-plain fa-xs"></i></code>
+<code><i class="devicon-github-plain fa-xs"></i></code>
+<code><i class="devicon-github-plain fa-xs"></i></code>
+<code><i class="devicon-github-plain fa-xs"></i></code>
+<code><i class="devicon-github-plain fa-xs"></i></code>
+<code><i class="devicon-github-plain fa-xs"></i></code>
+<code><i class="devicon-github-plain fa-xs"></i></code>
+<code><i class="devicon-github-plain fa-xs"></i></code>
+<code><i class="devicon-cplusplus-line" data-toggle="tooltip" title="C++"></i></code>
+<code><i class="devicon-java-plain" data-toggle="tooltip" title="JAVA"></i></code>
+<code><i class="devicon-python-plain" data-toggle="tooltip" title="Python"></i></code>
+<code><i class="devicon-csharp-line" data-toggle="tooltip" title="C#"></i></code>
+<code><i class="devicon-go-line" data-toggle="tooltip" title="Go"></i></code>
+<code><i class="devicon-git-plain" data-toggle="tooltip" title="Git"></i></code>
+<code><i class="devicon-postgresql-plain" data-toggle="tooltip" title="PostgreSQL"></i></code>
+<code><i class="devicon-html5-plain" data-toggle="tooltip" title="HTML5"></i></code>
+<code><i class="devicon-css3-plain" data-toggle="tooltip" title="CSS3"></i></code>
+<code><i class="devicon-javascript-plain" data-toggle="tooltip" title="JavaScript"></i></code>
 
-<br> -->
-<br>
+📈 My GitHub Stats
 
-<h3>Languages and Tools:</h3>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nilax97&show_icons=true&theme=gotham" alt="nilax97" />
 
-<p align="left">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-	<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/>
-	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-</p>
 
-<p align="left">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-	<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-	x<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-	<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-</p>
 
-<p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilax97" alt="nilax97" />
-</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilax97&show_icons=true&include_all_commits=true" alt="nilax97" /></p>
-
-<br>
-<br>
-<br>
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/nilax97/nilax97.github.io/pull/1) in [nilax97/nilax97.github.io](https://github.com/nilax97/nilax97.github.io)
-2. 🎉 Merged PR [#3](https://github.com/nilax97/nilax97.github.io/pull/3) in [nilax97/nilax97.github.io](https://github.com/nilax97/nilax97.github.io)
-3. 💪 Opened PR [#163](https://github.com/DavidMatthewFraser/easy-to-git/pull/163) in [DavidMatthewFraser/easy-to-git](https://github.com/DavidMatthewFraser/easy-to-git)
-4. 💪 Opened PR [#162](https://github.com/DavidMatthewFraser/easy-to-git/pull/162) in [DavidMatthewFraser/easy-to-git](https://github.com/DavidMatthewFraser/easy-to-git)
-<!--END_SECTION:activity-->
