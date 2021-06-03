@@ -30,7 +30,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nilax97&show_icons=true&theme=gotham" alt="nilax97" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nilax97&show_icons=true&theme=gothamcount_private=true" alt="nilax97" />
 
 
 
