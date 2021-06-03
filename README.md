@@ -17,30 +17,16 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><i class="devicon-linkedin-plain"></i></code>
-<code><i class="devicon-github-original"></i></code>
-<code><i class="devicon-facebook-plain"></i></code>
-<code><i class="devicon-github-plain fa-xs"></i></code>
-<code><i class="devicon-github-plain fa-xs"></i></code>
-<code><i class="devicon-github-plain fa-xs"></i></code>
-<code><i class="devicon-github-plain fa-xs"></i></code>
-<code><i class="devicon-github-plain fa-xs"></i></code>
-<code><i class="devicon-github-plain fa-xs"></i></code>
-<code><i class="devicon-github-plain fa-xs"></i></code>
-<code><i class="devicon-github-plain fa-xs"></i></code>
-<code><i class="devicon-github-plain fa-xs"></i></code>
-<code><i class="devicon-github-plain fa-xs"></i></code>
-<code><i class="devicon-cplusplus-line" data-toggle="tooltip" title="C++"></i></code>
-<code><i class="devicon-java-plain" data-toggle="tooltip" title="JAVA"></i></code>
-<code><i class="devicon-python-plain" data-toggle="tooltip" title="Python"></i></code>
-<code><i class="devicon-csharp-line" data-toggle="tooltip" title="C#"></i></code>
-<code><i class="devicon-go-line" data-toggle="tooltip" title="Go"></i></code>
-<code><i class="devicon-git-plain" data-toggle="tooltip" title="Git"></i></code>
-<code><i class="devicon-postgresql-plain" data-toggle="tooltip" title="PostgreSQL"></i></code>
-<code><i class="devicon-html5-plain" data-toggle="tooltip" title="HTML5"></i></code>
-<code><i class="devicon-css3-plain" data-toggle="tooltip" title="CSS3"></i></code>
-<code><i class="devicon-javascript-plain" data-toggle="tooltip" title="JavaScript"></i></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-line.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
 
 📈 My GitHub Stats
 
