@@ -9,7 +9,7 @@ Hi, I'm Nilaksh, a passionate data scientist and software developer from India.
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/nilax97/nilax97/blob/master/code.gif?raw=true" width="500" height="200" />
+  <img align="right" alt="GIF" src="https://github.com/nilax97/nilax97/blob/master/code.gif?raw=true" width="400" height="256" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Email](mailto:agarwal.nilaksh@gmail.com);
