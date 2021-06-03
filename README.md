@@ -6,7 +6,7 @@
 
 Hi, I'm Nilaksh, a passionate data scientist and software developer from India.
 
-  <img align="right" alt="GIF" src="https://github.com/nilax97/nilax97/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/nilax97/nilax97/blob/master/code.gif?raw=true" width="375" height="240" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Email](mailto:agarwal.nilaksh@gmail.com);
