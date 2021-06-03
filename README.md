@@ -25,7 +25,7 @@ Hi, I'm Nilaksh, a passionate data scientist and software developer from India.
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-
+<br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nilax97&show_icons=true&count_private=true&theme=gotham" alt="nilax97" />
 
 
