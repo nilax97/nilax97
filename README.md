@@ -4,10 +4,7 @@
 
 <br />
 
-Hi, I'm Nilaksh, a passionate data scientist and software developer from India. 
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
+Hi, I'm Nilaksh, a passionate data scientist and software developer from India.
 
   <img align="right" alt="GIF" src="https://github.com/nilax97/nilax97/blob/master/code.gif?raw=true" width="500" height="320" />
   
